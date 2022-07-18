@@ -1,5 +1,5 @@
-# bs-mint-list
-This is a repository for storing the valid NFTs to be deposited into different bridgesplit pools. Some pools are collection specific, some are across collections or specific to different parts of the metadata.
+# mint-list
+This is a repository for storing the valid NFTs to be deposited into different pools. Some pools are collection specific, some are across collections or specific to different parts of the metadata.
 
 At some point, if we do this for a while it'll make sense to build this ourselves. But for now we can just use magic eden.
 
